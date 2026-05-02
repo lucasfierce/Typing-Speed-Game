@@ -85,20 +85,6 @@ WPM = (Caracteres Corretos / 5) × (60 / Tempo Decorrido)
 - `timeLeft`: Tempo restante em segundos
 - `charIndex`: Índice do caractere atual sendo digitado
 
-## 💡 Dicas para Melhorar sua Velocidade
-
-1. Mantenha a postura correta
-2. Coloque os dedos na posição inicial do teclado (fila inicial)
-3. Não olhe para o teclado, mantenha o foco na tela
-4. Pratique regularmente para melhorar consistentemente
-5. Qualidade sobre velocidade: evite erros para manter o WPM alto
-
-## 🐛 Tratamento de Erros
-
-- A aplicação valida a resposta da API antes de exibir citações
-- Mensagens de erro são exibidas no console do navegador em caso de falha na conexão
-- O jogo reinicia adequadamente após cada rodada
-
 ## 📝 Requisitos
 
 - Navegador moderno com suporte a:
@@ -121,10 +107,4 @@ Este projeto demonstra:
 
 Este projeto é de código aberto e pode ser usado livremente.
 
-## 👨‍💻 Autor
 
-Projeto criado como exercício de desenvolvimento web.
-
----
-
-**Divirta-se digitando e melhorando suas habilidades!** ⌨️✨
